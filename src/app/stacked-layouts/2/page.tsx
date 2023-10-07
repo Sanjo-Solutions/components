@@ -5,7 +5,6 @@ export default function Page() {
   return (
     <ComponentDemoPage componentName="Stacked Layout 1">
       <StackedLayout1
-        theme="dark"
         menuItems={[
           {
             label: "Dashboard",
